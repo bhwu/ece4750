@@ -1,0 +1,6 @@
+{
+  "lab5_mcore/test/MultiCoreRTL_test.py::test_sw[diffline_deps-test2]": true, 
+  "lab5_mcore/test/MultiCoreRTL_test.py::test_sw[sameline_deps-test0]": true, 
+  "lab5_mcore/test/MultiCoreRTL_test.py::test_sw[twoline_deps-test1]": true, 
+  "lab5_mcore/test/MultiCoreRTL_test.py::test_sw_rand_delays": true
+}
